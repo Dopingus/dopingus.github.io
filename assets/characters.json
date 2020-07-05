@@ -1,0 +1,19 @@
+{
+    "characters": [
+        {
+            "name": "Pecorine",
+            "portraitPath": "/assets/portrait/pecorine.png",
+            "position": "front"
+        },
+        {
+            "name": "Kyaru",
+            "portraitPath": "/assets/portrait/kyaru.png",
+            "position": "back"
+        },
+        {
+            "name": "Kokkoro",
+            "portraitPath": "/assets/portrait/kokkoro.png",
+            "position": "mid"
+        }
+    ]
+}
