@@ -14,6 +14,21 @@
             "name": "Kokkoro",
             "portraitPath": "/assets/portrait/kokkoro.png",
             "position": "mid"
+        },
+        {
+          "name": "Yui",
+          "portraitPath": "/assets/portrait/yui.png",
+          "position": "back"
+        },
+        {
+          "name": "Rei",
+          "portraitPath": "/assets/portrait/rei.png",
+          "position": "front"
+        },
+        {
+          "name": "Hiyori",
+          "portraitPath": "/assets/portrait/hiyori.png",
+          "position": "front"
         }
     ]
 }
